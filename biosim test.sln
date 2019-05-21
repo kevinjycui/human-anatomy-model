@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "biosim test", "biosim test.csproj", "{19B4D0C0-CF7B-9397-5EBD-F46DD1E2D292}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "biosim test.Editor", "biosim test.Editor.csproj", "{82FF416E-9021-2962-E519-D6827B274633}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{19B4D0C0-CF7B-9397-5EBD-F46DD1E2D292}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19B4D0C0-CF7B-9397-5EBD-F46DD1E2D292}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19B4D0C0-CF7B-9397-5EBD-F46DD1E2D292}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19B4D0C0-CF7B-9397-5EBD-F46DD1E2D292}.Release|Any CPU.Build.0 = Release|Any CPU
+		{82FF416E-9021-2962-E519-D6827B274633}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82FF416E-9021-2962-E519-D6827B274633}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82FF416E-9021-2962-E519-D6827B274633}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82FF416E-9021-2962-E519-D6827B274633}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
